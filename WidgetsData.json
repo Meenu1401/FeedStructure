@@ -1,0 +1,8 @@
+{
+	"mixedWidgetData": {
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,t-f.cms?adreqfrm=sec&amp;platform=android&amp;andver=610&city=<lang>&category=<sub_category>",
+		"uid": "Entertainment-01",
+		"isGeoTargeted": true,
+		"navType": "dropdown"
+	}
+}
