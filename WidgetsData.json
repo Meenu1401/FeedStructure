@@ -1,6 +1,5 @@
 {
 	"items": [{
-			"hl": "ETIMES Photos",
 			"id": "62622605",
 			"tn": "mixedwidgetslider",
 			"mixedWidgetData": {
@@ -9,13 +8,14 @@
 				"secid": "",
 				"tn": "photolist",
 				"uid": "Photos-01",
+				"hl": "ETIMES Photos",
 				"pubInfo": {
 					"pn": "The Times Of India",
 					"pnEng": "The Times Of India",
 					"channel": "toi",
 					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
-					"pid": "100",
-					"lid": "1",
+					"pid": 100,
+					"lid": 1,
 					"lang": "english"
 				}
 			}
@@ -24,10 +24,10 @@
 			"tn": "newslistdAd",
 			"pos": "2-1071467-2"
 		}, {
-			"hl": "Entertainment (ETIMES)",
 			"id": "1081479906",
 			"tn": "mixedwidget",
 			"mixedWidgetData": {
+				"hl": "Entertainment (ETIMES)",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,t-f.cms?adreqfrm=sec&platform=android&andver=610&city=<cityid>&category=<subcategory>",
 				"uid": "Entertainment-01",
 				"navType": "dropdown",
@@ -37,18 +37,19 @@
 					"pnEng": "The Times Of India",
 					"channel": "toi",
 					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
-					"pid": "100",
-					"lid": "1",
+					"pid": 100,
+					"lid": 1,
 					"lang": "english"
 				}
 			}
 		},
 		{
-			"hl": "TOI+",
+			
 			"id": "60478053",
 			"tn": "mixedwidget",
 			"cs": "prime",
 			"mixedWidgetData": {
+				"hl": "TOI+",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/primenewslistingfeed/feedtype-sjson,msid-60478053,tag-primehome,uid-Plushome-01.cms?category=TOIPlus-01&platform=android&andver=610",
 				"uid": "Plushome-01",
 				"navType": "dropdown",
@@ -58,8 +59,8 @@
 					"pnEng": "The Times Of India",
 					"channel": "toi",
 					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
-					"pid": "100",
-					"lid": "1",
+					"pid": 100,
+					"lid": 1,
 					"lang": "english"
 				}
 			}
