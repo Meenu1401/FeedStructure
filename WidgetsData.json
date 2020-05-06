@@ -1,8 +1,41 @@
 {
-	"mixedWidgetData": {
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,t-f.cms?adreqfrm=sec&amp;platform=android&amp;andver=610&city=<city>",
-		"uid": "Entertainment-01",
-		"navType": "dropdown",
-		"subSectionUrl": "Provide SubSections url"
-	}
+	"items": [{
+			"hl": "ETIMES Photos",
+			"id": "62622605",
+			"tn": "mixedwidgetslider",
+			"mixedWidgetData": {
+				"defaulturl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/tag-top,feedtype-sjson,msid-.cms?platform=android&andver=610",
+				"name": "Photos",
+				"secid": "",
+				"tn": "photolist",
+				"uid": "Photos-01"
+			}
+		}, {
+			"id": "334760",
+			"tn": "newslistdAd",
+			"pos": "2-1071467-2"
+		}, {
+			"hl": "Entertainment (ETIMES)",
+			"id": "1081479906",
+			"tn": "mixedwidget",
+			"mixedWidgetData": {
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,t-f.cms?adreqfrm=sec&platform=android&andver=610&city=<cityid>&category=<subcategory>",
+				"uid": "Entertainment-01",
+				"navType": "dropdown",
+				"subSectionUrl": "subsection url will be here only if L2 is available"
+			}
+		},
+		{
+			"hl": "TOI+",
+			"id": "60478053",
+			"tn": "mixedwidget",
+			"cs": "prime",
+			"mixedWidgetData": {
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/primenewslistingfeed/feedtype-sjson,msid-60478053,tag-primehome,uid-Plushome-01.cms?category=TOIPlus-01&platform=android&andver=610",
+				"uid": "Plushome-01",
+				"navType": "dropdown",
+				"subSectionUrl": "subsection url will be here only if L2 is available"
+			}
+		}
+	]
 }
