@@ -31,7 +31,7 @@
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,t-f.cms?adreqfrm=sec&platform=android&andver=610&city=<cityid>&category=<subcategory>",
 				"uid": "Entertainment-01",
 				"navType": "dropdown",
-				"subSectionUrl": "subsection url will be here only if L2 is available",
+				"subSectionUrl": "https://github.com/Meenu1401/FeedStructure/blob/master/subsectionDataFormat",
 				"pubInfo": {
 					"pn": "The Times Of India",
 					"pnEng": "The Times Of India",
@@ -52,8 +52,6 @@
 				"hl": "TOI+",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/primenewslistingfeed/feedtype-sjson,msid-60478053,tag-primehome,uid-Plushome-01.cms?category=TOIPlus-01&platform=android&andver=610",
 				"uid": "Plushome-01",
-				"navType": "dropdown",
-				"subSectionUrl": "subsection url will be here only if L2 is available",
 				"pubInfo": {
 					"pn": "The Times Of India",
 					"pnEng": "The Times Of India",
