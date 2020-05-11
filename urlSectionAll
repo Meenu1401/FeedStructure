@@ -97,11 +97,11 @@
 			"tn": "newslistdAd",
 			"pos": "2-6191552-2"
 		}, {
-			"hl": "TOI+",
 			"id": "60478053",
 			"tn": "mixedwidget",
 			"cs": "prime",
 			"mixedWidgetData": {
+				"hl": "TOI+",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/primenewslistingfeed/feedtype-sjson,msid-60478053,tag-primehome,uid-Plushome-01.cms?category=TOIPlus-01&platform=android&andver=610",
 				"uid": "Plushome-01",
 				"navType": "dropdown",
