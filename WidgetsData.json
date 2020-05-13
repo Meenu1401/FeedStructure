@@ -1,5 +1,59 @@
 {
 	"items": [{
+			"source": "toi",
+			"tn": "news",
+			"id": "75659200",
+			"dl": "1589111880000",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+				"pid": 100,
+				"lid": 1,
+				"lang": "english"
+			},
+			"hl": "334 Covid-19 'super-spreaders' found in Ahmedabad: Official",
+			"imageid": "75659348&imgsize=248553",
+			"dm": "t",
+			"wu": "https://timesofindia.indiatimes.com/india/334-covid-19-super-spreaders-found-in-ahmedabad-official/articleshow/75659200.cms",
+			"msid": "75659200",
+			"upd": "1589112360000",
+			"lpt": "1589112464271",
+			"kws": "superspreaders,covid-19,Coronavirus in gujarat,coronavirus",
+			"type": "featured",
+			"fu": "https://plus.timesofindia.com/toi-feed/feed/toia/article/show?id=75659200&source=toi&dm=t",
+			"su": "http://toi.in/yefYua/"
+		},
+		{
+			"id": "334758",
+			"tn": "newslistdAd",
+			"pos": "1-1085079-2"
+		},
+		{
+			"source": "toi",
+			"tn": "html",
+			"id": "75638171",
+			"dl": "1588973220000",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+				"pid": 100,
+				"lid": 1,
+				"lang": "english"
+			},
+			"upd": "1589120640000",
+			"lpt": "1589120687040",
+			"hl": "Live: Can run 300 trains daily; urge states to allow evacuation of migrants, says Centre",
+			"imageid": "75638171&imgsize=191691",
+			"dm": "t",
+			"wu": "https://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-75-cases-in-delhi-are-asymptomatic-or-with-mild-symptoms-cm-kejriwal-says/liveblog/75638171.cms",
+			"msid": "75638171",
+			"fu": "https://plus.timesofindia.com/toi-feed/feed/toia/article/show?id=75638171&source=toi&dm=t"
+		},
+		{
 			"id": "62622605",
 			"tn": "mixedwidgetslider",
 			"mixedWidgetData": {
@@ -9,49 +63,6 @@
 				"tn": "photolist",
 				"uid": "Photos-01",
 				"hl": "ETIMES Photos",
-				"pubInfo": {
-					"pn": "The Times Of India",
-					"pnEng": "The Times Of India",
-					"channel": "toi",
-					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
-					"pid": 100,
-					"lid": 1,
-					"lang": "english"
-				}
-			}
-		}, {
-			"id": "334760",
-			"tn": "newslistdAd",
-			"pos": "2-1071467-2"
-		}, {
-			"id": "1081479906",
-			"tn": "mixedwidget",
-			"mixedWidgetData": {
-				"hl": "Entertainment (ETIMES)",
-				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,t-f.cms?adreqfrm=sec&platform=android&andver=610&city=<cityid>&category=<subcategory>",
-				"uid": "Entertainment-01",
-				"navType": "dropdown",
-				"subSectionUrl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/subsectionDataFormat",
-				"pubInfo": {
-					"pn": "The Times Of India",
-					"pnEng": "The Times Of India",
-					"channel": "toi",
-					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
-					"pid": 100,
-					"lid": 1,
-					"lang": "english"
-				}
-			}
-		},
-		{
-			
-			"id": "60478053",
-			"tn": "mixedwidget",
-			"cs": "prime",
-			"mixedWidgetData": {
-				"hl": "TOI+",
-				"defaulturl": "https://timesofindia.indiatimes.com/feeds/primenewslistingfeed/feedtype-sjson,msid-60478053,tag-primehome,uid-Plushome-01.cms?category=TOIPlus-01&platform=android&andver=610",
-				"uid": "Plushome-01",
 				"pubInfo": {
 					"pn": "The Times Of India",
 					"pnEng": "The Times Of India",
