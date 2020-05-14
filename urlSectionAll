@@ -78,6 +78,7 @@
 				"defaulturl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/tag-top,feedtype-sjson,msid-.cms?platform=android&andver=610",
 				"name": "Photos",
 				"secid": "",
+				navType: "dropdown",
 				"subSectionUrl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/subsectionDataFormat"
 				"tn": "photolist",
 				"uid": "Photos-01",
