@@ -1,0 +1,106 @@
+{
+	"subSections": [{
+		"hl": "Hindi",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-17781976,tag-alrtmixed,uid-TV-01.cms?platform=android&andver=610&adreqfrm=widget",
+		"uid": "Hindi-01",
+    "pubInfo": {
+			"pn": "The Times Of India",
+			"pnEng": "The Times Of India",
+			"channel": "toi",
+			"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+			"pid": "100",
+			"lid": "1",
+			"lang": "english"
+		}
+	}, {
+		"hl": "English",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136027,tag-alrtmixed,uid-TV-01.cms?platform=android&andver=610&adreqfrm=widget",
+		"uid": "English-01",
+    "pubInfo": {
+			"pn": "The Times Of India",
+			"pnEng": "The Times Of India",
+			"channel": "toi",
+			"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+			"pid": "100",
+			"lid": "1",
+			"lang": "english"
+		}
+	}, {
+		"hl": "Tamil",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-45457467,tag-alrtmixed,uid-TV-01.cms?platform=android&andver=610&adreqfrm=widget",
+		"uid": "Tamil-01",
+    "pubInfo": {
+			"pn": "The Times Of India",
+			"pnEng": "The Times Of India",
+			"channel": "toi",
+			"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+			"pid": "100",
+			"lid": "1",
+			"lang": "english"
+		}
+	}, {
+		"hl": "Telugu",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-45457315,tag-alrtmixed,uid-TV-01.cms?platform=android&andver=610&adreqfrm=widget",
+		"uid": "Telugu-01",
+    "pubInfo": {
+			"pn": "The Times Of India",
+			"pnEng": "The Times Of India",
+			"channel": "toi",
+			"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+			"pid": "100",
+			"lid": "1",
+			"lang": "english"
+		}
+	}, {
+		"hl": "Malayalam",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-45457304,tag-alrtmixed,uid-TV-01.cms?platform=android&andver=610&adreqfrm=widget",
+		"uid": "Malayalam-01",
+    "pubInfo": {
+			"pn": "The Times Of India",
+			"pnEng": "The Times Of India",
+			"channel": "toi",
+			"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+			"pid": "100",
+			"lid": "1",
+			"lang": "english"
+		}
+	}, {
+		"hl": "Kannada",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-45457295,tag-alrt,uid-TV-01.cms?platform=android&andver=610&adreqfrm=widget",
+		"uid": "Kannada-01",
+    "pubInfo": {
+			"pn": "The Times Of India",
+			"pnEng": "The Times Of India",
+			"channel": "toi",
+			"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+			"pid": "100",
+			"lid": "1",
+			"lang": "english"
+		}
+	}, {
+		"hl": "Marathi",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-45457283,tag-alrt,uid-TV-01.cms?platform=android&andver=610&adreqfrm=widget",
+		"uid": "Marathi-01",
+    "pubInfo": {
+			"pn": "The Times Of India",
+			"pnEng": "The Times Of India",
+			"channel": "toi",
+			"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+			"pid": "100",
+			"lid": "1",
+			"lang": "english"
+		}
+	}, {
+		"hl": "Bengali",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-45457278,tag-alrt,uid-TV-01.cms?platform=android&andver=610&adreqfrm=widget",
+		"uid": "Bengali-01","pubInfo": {
+			"pn": "The Times Of India",
+			"pnEng": "The Times Of India",
+			"channel": "toi",
+			"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+			"pid": "100",
+			"lid": "1",
+			"lang": "english"
+		}
+	}]
+}
