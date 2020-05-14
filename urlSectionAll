@@ -104,7 +104,7 @@
 			"id": "17781976",
 			"tn": "mixedwidget",
 			"mixedWidgetData": {
-				"defaulturl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/tag-top,feedtype-sjson,msid-.cms?platform=android&andver=610",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TVWidgetNews-01,t-f.cms?adreqfrm=sec&platform=android&andver=610",
 				"name": "TV",
 				"secid": "",
 				"uid": "TV-01",
