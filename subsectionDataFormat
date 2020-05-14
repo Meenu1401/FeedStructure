@@ -1,7 +1,7 @@
 {
 	"subSections": [{
 		"hl": "Featured",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135527,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Featured-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -14,7 +14,7 @@
 		}
 	}, {
 		"hl": "Hindi",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27135527,tag-alrt,uid-Entertainment-01,category-EntHindi-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135527,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Hindi-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -27,7 +27,7 @@
 		}
 	}, {
 		"hl": "English",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27135489,tag-alrt,uid-Entertainment-01,category-EntEnglish-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135489,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "English-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -40,7 +40,7 @@
 		}
 	}, {
 		"hl": "Tamil",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27135454,tag-alrt,uid-Entertainment-01,category-EntTamil-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135454,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Tamil-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -53,7 +53,7 @@
 		}
 	}, {
 		"hl": "Telugu",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27135440,tag-alrt,uid-Entertainment-01,category-EntTelugu-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135440,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Telugu-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -66,7 +66,7 @@
 		}
 	}, {
 		"hl": "Malayalam",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27135428,tag-alrt,uid-Entertainment-01,category-EntMalayalam-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135428,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Malayalam-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -79,7 +79,7 @@
 		}
 	}, {
 		"hl": "Kannada",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27135414,tag-alrt,uid-Entertainment-01,category-EntKannada-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135414,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Kannada-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -92,7 +92,7 @@
 		}
 	}, {
 		"hl": "Bengali",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27135398,tag-alrt,uid-Entertainment-01,category-EntBengali-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135398,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Bengali-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -105,7 +105,7 @@
 		}
 	}, {
 		"hl": "Punjabi",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27135289,tag-alrt,uid-Entertainment-01,category-EntPunjabi-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135289,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Punjabi-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -118,7 +118,7 @@
 		}
 	}, {
 		"hl": "Marathi",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27134572,tag-alrt,uid-Entertainment-01,category-EntMarathi-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27134572,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Marathi-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -131,11 +131,20 @@
 		}
 	}, {
 		"hl": "Bhojpuri",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27134497,tag-alrt,uid-Entertainment-01,category-EntBhojpuri-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
-		"uid": "Bhojpuri-01"
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27134497,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
+		"uid": "Bhojpuri-01",
+		"pubInfo": {
+			"pn": "The Times Of India",
+			"pnEng": "The Times Of India",
+			"channel": "toi",
+			"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+			"pid": 100,
+			"lid": 1,
+			"lang": "english"
+		}
 	}, {
 		"hl": "Gujarati",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-29982848,tag-alrt,uid-Entertainment-01,category-EntGujarati-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-29982848,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Gujarati-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -148,7 +157,7 @@
 		}
 	}, {
 		"hl": "TV",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-17781976,tag-alrt,uid-Entertainment-01,category-TV-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "EntTV-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
@@ -161,7 +170,7 @@
 		}
 	}, {
 		"hl": "Events",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-27135489,tag-alrt,uid-Entertainment-01,category-Events-01.cms?platform=android&andver=610&adreqfrm=widget&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-2277129,tag-alrt,uid-Events-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "EntEvents-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
