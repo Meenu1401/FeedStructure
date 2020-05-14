@@ -99,6 +99,29 @@
 			"tn": "newslistdAd",
 			"pos": "2-6191552-2"
 		},
+		
+		{
+			"id": "17781976",
+			"tn": "mixedwidget",
+			"mixedWidgetData": {
+				"defaulturl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/tag-top,feedtype-sjson,msid-.cms?platform=android&andver=610",
+				"name": "TV",
+				"secid": "",
+				"uid": "TV-01",
+				"navType": "dropdown",
+				"subSectionUrl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/tvETimesSubSection",
+				"hl": "TV (ETIMES)",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": 100,
+					"lid": 1,
+					"lang": "english"
+				}
+			}
+			},
 
 		{
 			"hl": "Lockdown: PM to interact with CMs on Monday with focus on economy",
