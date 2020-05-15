@@ -108,7 +108,7 @@
 				"name": "TV",
 				"secid": "",
 				"uid": "TV-01",
-				"navType": "dropdown",
+				"navType": "tabs",
 				"subSectionUrl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/tvETimesSubSection",
 				"hl": "TV (ETIMES)",
 				"pubInfo": {
