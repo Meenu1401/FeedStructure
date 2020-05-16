@@ -49,7 +49,8 @@
 			"id": "62622606",
 			"tn": "citywidget",
 			"mixedWidgetData": {
-				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,t-f.cms?platform=android&andver=610&adreqfrm=sec",
+				"defaulturl": "toiapp://open-$|$-id=City-01-$|$-lang=1-$|$-displayName=Local-$|$-url=https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=android&andver=603&adreqfrm=sec-$|$-type=mixed-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+				"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,t-f.cms?platform=android&andver=610&adreqfrm=sec",
 				"name": "All Cities",
 				"secid": "",
 				"uid": "City-01",
@@ -94,7 +95,8 @@
 			"id": "62622605",
 			"tn": "mixedwidgetslider",
 			"mixedWidgetData": {
-				"defaulturl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/tag-top,feedtype-sjson,msid-.cms?platform=android&andver=610",
+				"defaulturl": "toiapp://open-$|$-id=Entertainment-01-$|$-lang=1-$|$-displayName=ETimes-$|$-url=https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-0001,tag-alrt,uid-Entertainment-01,category-Entertainment-01,t-f.cms?platform=android&andver=603&adreqfrm=sec-$|$-type=mixed-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+				"dataUrl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/tag-top,feedtype-sjson,msid-.cms?platform=android&andver=610",
 				"name": "Photos",
 				"secid": "",
 				"navType": "dropdown",
@@ -123,7 +125,8 @@
 			"id": "17781976",
 			"tn": "mixedwidget",
 			"mixedWidgetData": {
-				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TVWidgetNews-01,t-f.cms?adreqfrm=sec&platform=android&andver=610",
+				"defaulturl": "toiapp://open-$|$-id=TV-01-$|$-lang=1-$|$-displayName=TV (ETIMES)-$|$-url=https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TV-01,t-f.cms?platform=android&andver=603&adreqfrm=sec-$|$-type=mixed-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TVWidgetNews-01,t-f.cms?adreqfrm=sec&platform=android&andver=610",
 				"name": "TV",
 				"secid": "",
 				"uid": "TV-01",
