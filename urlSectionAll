@@ -121,29 +121,6 @@
 			"pos": "2-6191552-2"
 		},
 		
-		{
-			"id": "17781976",
-			"tn": "mixedwidget",
-			"mixedWidgetData": {
-				"defaulturl": "toiapp://open-$|$-id=TV-01-$|$-lang=1-$|$-displayName=TV (ETIMES)-$|$-url=https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TV-01,t-f.cms?platform=android&andver=603&adreqfrm=sec-$|$-type=mixed-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
-"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TVWidgetNews-01,t-f.cms?adreqfrm=sec&platform=android&andver=610",
-				"name": "TV",
-				"secid": "",
-				"uid": "TV-01",
-				"navType": "tabs",
-				"subSectionUrl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/tvETimesSubSection",
-				"hl": "TV (ETIMES)",
-				"pubInfo": {
-					"pn": "The Times Of India",
-					"pnEng": "The Times Of India",
-					"channel": "toi",
-					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
-					"pid": 100,
-					"lid": 1,
-					"lang": "english"
-				}
-			}
-			},
 
 		{
 			"hl": "Lockdown: PM to interact with CMs on Monday with focus on economy",
@@ -210,6 +187,30 @@
 			"ctnBackFill": "334764",
 			"adcode": "/7176/SUPERAPP_TOI_ANDROID/SUPERAPP_APP_TOI_AOS_HOME/TOI_SUP_APP_AOS_HP_MREC"
 		},
+		
+		{
+			"id": "17781976",
+			"tn": "mixedwidget",
+			"mixedWidgetData": {
+				"defaulturl": "toiapp://open-$|$-id=TV-01-$|$-lang=1-$|$-displayName=TV (ETIMES)-$|$-url=https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TV-01,t-f.cms?platform=android&andver=603&adreqfrm=sec-$|$-type=mixed-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TVWidgetNews-01,t-f.cms?adreqfrm=sec&platform=android&andver=610",
+				"name": "TV",
+				"secid": "",
+				"uid": "TV-01",
+				"navType": "tabs",
+				"subSectionUrl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/tvETimesSubSection",
+				"hl": "TV (ETIMES)",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": 100,
+					"lid": 1,
+					"lang": "english"
+				}
+			}
+			},
 		{
 			"source": "toi",
 			"tn": "news",
