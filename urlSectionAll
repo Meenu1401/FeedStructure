@@ -46,6 +46,25 @@
 			"fu": "https://plus.timesofindia.com/toi-feed/feed/toia/article/show?id=75659200&source=toi&dm=t",
 			"su": "http://toi.in/yefYua/"
 		}, {
+			"id": "62622606",
+			"tn": "citywidget",
+			"mixedWidgetData": {
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,t-f.cms?platform=android&andver=610&adreqfrm=sec",
+				"name": "All Cities",
+				"secid": "",
+				"uid": "City-01",
+				"hl": "All Cities",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": 100,
+					"lid": 1,
+					"lang": "english"
+				}
+			}
+		}, {
 			"id": "334758",
 			"tn": "newslistdAd",
 			"pos": "1-1085079-2"
