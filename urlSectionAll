@@ -50,7 +50,7 @@
 				"name": "Photos",
 				"secid": "",
 				"navType": "dropdown",
-				"subSectionUrl": "https://raw",
+				"subSectionUrl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/subsectionDataFormat",
 				"tn": "photolist",
 				"uid": "Photos-01",
 				"hl": "ETIMES Photos",
