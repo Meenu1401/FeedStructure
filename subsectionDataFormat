@@ -14,7 +14,7 @@
 		}
 	}, {
 		"hl": "Hindi",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135527,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
+		"defaulturl": "https://timesofindia.indiatimes.com/",
 		"uid": "Hindi-01",
 		"pubInfo": {
 			"pn": "The Times Of India",
