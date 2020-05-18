@@ -75,6 +75,7 @@
 				"secid": "",
 				"uid": "TV-01",
 				"navType": "tabs",
+				"subSectionUrl":"https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/tvETimesSubSection",
 				"hl": "TV (ETIMES)",
 				"pubInfo": {
 					"pn": "The Times Of India",
