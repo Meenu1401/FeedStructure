@@ -1,5 +1,5 @@
 {
-	"subSections": [{
+	"items": [{
 		"hl": "Featured",
 		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedhc/feedtype-sjson,msid-27135527,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=610&adreqfrm=sec&city=<cityid>",
 		"uid": "Featured-01",
