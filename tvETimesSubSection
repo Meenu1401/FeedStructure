@@ -1,5 +1,5 @@
 {
-	"subSections": [{
+	"items": [{
 		"hl": "Hindi",
 		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-17781976,tag-alrtmixed,uid-TV-01.cms?platform=android&andver=610&adreqfrm=widget",
 		"uid": "Hindi-01",
