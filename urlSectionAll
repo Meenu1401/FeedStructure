@@ -1,68 +1,265 @@
 {
 	"pg": {
-		"tr": "36",
-		"pp": "26",
+		"tr": "40",
+		"pp": "44",
 		"tp": "1",
 		"cp": "1"
 	},
 	"ads": {
 		"header": "/7176/SUPERAPP_TOI_ANDROID/SUPERAPP_APP_TOI_AOS_HOME/TOI_SUP_APP_AOS_HP_ATF",
+		"footer": "/7176/SUPERAPP_TOI_ANDROID/SUPERAPP_APP_TOI_AOS_HOME/TOI_SUP_APP_AOS_HP_BTF",
 		"ctnheader": "334765",
 		"ctnfooter": "334766",
-		"footer": "/7176/SUPERAPP_TOI_ANDROID/SUPERAPP_APP_TOI_AOS_HOME/TOI_SUP_APP_AOS_HP_BTF",
+		"fanheader": "327541940615355_2471328216236706",
+		"fanfooter": "327541940615355_2471330289569832",
 		"inlinefullscreen": {
 			"adcode": "337674",
 			"diffpos": "4",
 			"startpos": "2"
 		},
-		"myFeedAd": true,
-		"fanheader": "327541940615355_2471328216236706",
-		"fanfooter": "327541940615355_2471330289569832",
-		"fanmrec": "327541940615355_2332170303485832"
+		"securl": "http://m.timesofindia.com/"
 	},
-	"items": [
-		{
-			"id": "62622605",
-			"tn": "mixedwidgetslider",
-			"mixedWidgetData": {
-				"name": "Photos",
-				"secid": "",
-				"navType": "dropdown",
-				"subSectionUrl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/subsectionDataFormat",
-				"tn": "photolist",
-				"uid": "Photos-01",
-				"hl": "ETIMES Photos",
-				"pubInfo": {
-					"pn": "The Times Of India",
-					"pnEng": "The Times Of India",
-					"channel": "toi",
-					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
-					"pid": 100,
-					"lid": 1,
-					"lang": "english"
-				}
-			}
-		},
-		{
-			"id": "17781976",
-			"tn": "mixedwidget",
-			"mixedWidgetData": {
-				"name": "TV",
-				"secid": "",
-				"uid": "TV-01",
-				"navType": "tabs",
-				"hl": "TV (ETIMES)",
-				"subSectionUrl":"https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/tvETimesSubSection",
-				"pubInfo": {
-					"pn": "The Times Of India",
-					"pnEng": "The Times Of India",
-					"channel": "toi",
-					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
-					"pid": 100,
-					"lid": 1,
-					"lang": "english"
-				}
+	"items": [{
+		"id": "-2128932452",
+		"tn": "citywidget",
+		"mixedWidgetData": {
+			"hl": "Local City",
+			"name": "Local City",
+			"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
+			"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=City-01&platform=android&andver=600&adreqfrm=widget&type=secwidget",
+			"secid": "-2128932452",
+			"navType": "dropdown",
+			"uid": "City-01",
+			"subsecuid": "AllCities-01",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
 			}
 		}
-	]
+	}, {
+		"id": "62622605",
+		"tn": "mixedwidgetslider",
+		"mixedWidgetData": {
+			"hl": "",
+			"name": "ETIMES Photos",
+			"deeplinkurl": "toiapp://open-$|$-id=Photos-01-$|$-lang=1-$|$-displayName=Photos (ETIMES)-$|$-url=https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-,tag-top,uid-Photo-01,category-Photo-01.cms?platform=android&andver=600&adreqfrm=sec-$|$-type=photolist-$|$-pubId-100-$|$-pubName=The Times Of India$|$-pc=toi-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+			"dataUrl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,tag-top,uid-Photo-01.cms?adreqfrm=widget&platform=android&andver=600&stryno=5",
+			"secid": "62622605",
+			"tn": "photolist",
+			"uid": "Photo-01",
+			"subsecuid": "",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}, {
+		"id": "1081479906",
+		"tn": "mixedwidget",
+		"mixedWidgetData": {
+			"hl": "",
+			"name": "Entertainment (ETIMES)",
+			"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
+			"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=Entertainment-01&platform=android&andver=600&adreqfrm=widget&type=secwidget",
+			"secid": "1081479906",
+			"navType": "dropdown",
+			"uid": "Entertainment-01",
+			"subsecuid": "",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}, {
+		"id": "60478053",
+		"tn": "mixedwidget",
+		"cs": "prime",
+		"mixedWidgetData": {
+			"hl": "",
+			"name": "TOI+",
+			"dataUrl": "https://timesofindia.indiatimes.com/feeds/primenewslistingfeed/feedtype-sjson,msid-60478053,tag-primehome,uid-Plushome-01,category-TOIPlus-01.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
+			"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=TOIPlus-01&platform=android&andver=600&adreqfrm=widget&type=secwidget",
+			"secid": "60478053",
+			"navType": "dropdown",
+			"uid": "Plushome-01",
+			"subsecuid": "",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}, {
+		"id": "52830510",
+		"tn": "mixedwidget",
+		"mixedWidgetData": {
+			"hl": "",
+			"name": "Tech (GadgetsNow)",
+			"dataUrl": "https://www.gadgetsnow.com/feeds/newslistingfeed/feedtype-sjson,msid-52830510,tag-alrt,uid-Gadgetsnow-01,category-Gadgetsnow-01.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
+			"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=Gadgetsnow-01&platform=android&andver=600&adreqfrm=widget&type=secwidget",
+			"secid": "52830510",
+			"navType": "dropdown",
+			"uid": "Gadgetsnow-01",
+			"subsecuid": "",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}, {
+		"id": "17781976",
+		"tn": "mixedwidget",
+		"mixedWidgetData": {
+			"hl": "",
+			"name": "TV (ETIMES)",
+			"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TVWidgetNews-01,t-f.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
+			"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=TVWidgetNews-01&platform=android&andver=600&adreqfrm=widget&type=secwidget",
+			"secid": "17781976",
+			"navType": "dropdown",
+			"uid": "TV-01",
+			"subsecuid": "",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}, {
+		"id": "2886704",
+		"tn": "mixedwidget",
+		"mixedWidgetData": {
+			"hl": "",
+			"name": "Lifestyle (ETIMES)",
+			"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-2886704,tag-alrt,uid-Entertainment-01,category-LifeStyle-01,t-f.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
+			"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=LifeStyle-01&platform=android&andver=600&adreqfrm=widget&type=secwidget",
+			"secid": "2886704",
+			"navType": "dropdown",
+			"uid": "LifeStyle-01",
+			"subsecuid": "",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}, {
+		"id": "4719148",
+		"tn": "mixedwidget",
+		"mixedWidgetData": {
+			"hl": "",
+			"name": "Sports",
+			"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-4719148,tag-alrt,uid-Sport-01,category-Sport-01.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
+			"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=Sport-01&platform=android&andver=600&adreqfrm=widget&type=secwidget",
+			"secid": "4719148",
+			"navType": "dropdown",
+			"uid": "Sport-01",
+			"subsecuid": "",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}, {
+		"id": "75135155",
+		"tn": "mixedwidget",
+		"mixedWidgetData": {
+			"hl": "",
+			"name": "Opinions and Features",
+			"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-75135155,tag-alrt,uid-India-01,category-OpinionandFeatured-01,t-f.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
+			"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=OpinionandFeatured-01&platform=android&andver=600&adreqfrm=widget&type=secwidget",
+			"secid": "75135155",
+			"navType": "dropdown",
+			"uid": "OpinionsAndFeatures-01",
+			"subsecuid": "",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}, {
+		"id": "73080727",
+		"tn": "mixedwidget",
+		"mixedWidgetData": {
+			"hl": "",
+			"name": "Times Evoke",
+			"deeplinkurl": "toiapp://open-$|$-id=TimesEvoke-01-$|$-lang=1-$|$-displayName=Times Evoke-$|$-url=https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-73080727,tag-alrt,uid-India-01,t-f.cms?platform=android&andver=600&adreqfrm=sec-$|$-type=mixed-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+			"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73080727,tag-alrt,uid-India-01,t-f.cms?adreqfrm=widget&platform=android&andver=600&stryno=5",
+			"secid": "73080727",
+			"uid": "TimesEvoke-01",
+			"subsecuid": "",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}, {
+		"id": "1898055",
+		"tn": "mixedwidget",
+		"mixedWidgetData": {
+			"hl": "",
+			"name": "Business",
+			"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-1898055,tag-alrt,uid-Business-01,category-Budget2017-01.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
+			"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=Budget2017-01&platform=android&andver=600&adreqfrm=widget&type=secwidget",
+			"secid": "1898055",
+			"navType": "dropdown",
+			"uid": "Business-01",
+			"subsecuid": "",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}]
 }
