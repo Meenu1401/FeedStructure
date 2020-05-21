@@ -50,7 +50,7 @@
 			"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
 			"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=Entertainment-01&platform=android&andver=600&adreqfrm=widget&type=secwidget",
 			"secid": "1081479906",
-			"navType": "dropdown",
+			"navType": "tabs",
 			"uid": "Entertainment-01",
 			"subsecuid": "",
 			"pubInfo": {
