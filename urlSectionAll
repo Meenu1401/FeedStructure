@@ -21,7 +21,7 @@
 	},
 	"items": [{
 		"id": "62622605",
-		"tn": "mixedwidgetslider",
+		"tn": "mixedwidgetsliderNew",
 		"mixedWidgetData": {
 			"hl": "",
 			"name": "ETIMES Photos",
@@ -43,7 +43,7 @@
 		}
 	}, {
 		"id": "1081479906",
-		"tn": "mixedwidget",
+		"tn": "mixedwidgetNew",
 		"mixedWidgetData": {
 			"hl": "",
 			"name": "Entertainment (ETIMES)",
@@ -65,7 +65,7 @@
 		}
 	}, {
 		"id": "1898055",
-		"tn": "mixedwidget",
+		"tn": "mixedwidgetNew",
 		"mixedWidgetData": {
 			"hl": "",
 			"name": "Business",
