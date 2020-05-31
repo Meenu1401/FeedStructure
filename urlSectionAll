@@ -20,6 +20,28 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
+		"id": "-2128932452",
+		"tn": "citywidget",
+		"mixedWidgetData": {
+			"hl": "Local City",
+			"name": "Local City",
+			"deeplinkurl": "toiapp://open-$|$-id=City-01-$|$-lang=1-$|$-displayName=Local-$|$-url=https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=android&andver=603&adreqfrm=sec-$|$-type=mixed-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+			"dataUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,t-f.cms?platform=android&andver=600&adreqfrm=widget&stryno=5",
+			"secid": "-2128932452",
+			"navType": "dropdown",
+			"uid": "City-01",
+			"subsecuid": "AllCities-01",
+			"pubInfo": {
+				"pn": "The Times Of India",
+				"pnEng": "The Times Of India",
+				"channel": "toi",
+				"pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+				"pid": "100",
+				"lid": "1",
+				"lang": "english"
+			}
+		}
+	}, {
 		"id": "62622605",
 		"tn": "mixedwidgetsliderNew",
 		"mixedWidgetData": {
