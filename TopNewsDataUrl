@@ -124,6 +124,10 @@
 			"upd": "1536571920000",
 			"lpt": "1589449427895"
 		},
+		{"id":"1237821451",
+			"tn": "mixedWidgetEnable",
+			"defaulturl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/WidgetData"
+		},
 		{
 			"source": "toi",
 			"tn": "html",
@@ -468,10 +472,7 @@
 					"su": "https://toi.in/Wue-vY",
 					"fu": "https://plus.timesofindia.com/toi-feed/feed/toia/video/show?id=76172135&source=toi&dm=t&fv=615"
 				},
-				{"id":"1237821451",
-			"tn": "mixedWidgetEnable",
-			"defaulturl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/WidgetData"
-		},
+				
 				{
 					"id": "76170245",
 					"hl": "Cyclone Nisarga: Landfall is expected in Maharashtra’s Alibag between 1pm-4pm",
