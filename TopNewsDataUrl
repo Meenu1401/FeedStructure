@@ -1970,7 +1970,7 @@
 		},
 		{"id":"1237821451",
 			"tn": "mixedWidgetEnable",
-			"defaultUrl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/WidgetData"
+			"defaulturl": "https://raw.githubusercontent.com/Meenu1401/FeedStructure/master/WidgetData"
 		}
 	]
 }
