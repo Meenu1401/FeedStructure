@@ -35,7 +35,7 @@
 		"defaulturl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/tag-top,feedtype-sjson,msid-.cms?platform=android&andver=610",
 		"name": "Photos",
 		"secid": "",
-		"tn": "photolist",
+		"tn": "mixedetimesslider",
 		"uid": "Photos-01",
 		"pitems": [{
 				"upd": "1591092240000",
