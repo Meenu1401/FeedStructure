@@ -91,29 +91,7 @@
 				}
 			}
 		},
-		{
-			"id": "1081479906",
-			"tn": "mixedwidgetNew",
-			"mixedWidgetData": {
-				"hl": "",
-				"name": "Times Evoke(New)",
-				"dataUrl": "https://timesofindia.indiatimes.com/feeds/sectionwidgetfeed/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,t-f.cms?platform=android&andver=630&adreqfrm=widget&stryno=5",
-				"subSectionUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?feedtype=sjson&category=Entertainment-01&platform=android&andver=630&adreqfrm=widget&type=secwidget",
-				"secid": "1081479906",
-				"navType": "dropdown",
-				"uid": "Times Evoke-01",
-				"subsecuid": "Featured-01",
-				"pubInfo": {
-					"pn": "The Times Of India",
-					"pnEng": "The Times Of India",
-					"channel": "toi",
-					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
-					"pid": "100",
-					"lid": "1",
-					"lang": "english"
-				}
-			}
-		},
+		
 		{
 			"id": "52830510",
 			"tn": "mixedwidgetNew",
